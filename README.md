@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="1694736293921" src="https://github.com/user-attachments/assets/43b08fce-077d-4392-9667-088ad12e19fa" />
 # Pizza-sales---sql
 This project analyzes a pizza sales dataset using SQL to extract meaningful business insights. The analysis focuses on understanding customer ordering behavior, revenue generation, popular pizza types, and sales trends.  By using SQL queries, the project answers several business questions that help a pizza restaurant make data-driven decisions.
 
@@ -32,3 +33,8 @@ This project uses several SQL techniques: <br>
 -> Aggregate Functions (SUM, COUNT, AVG) <br>
 -> Subqueries <br>
 -> Window Functions (RANK, OVER) <br>
+
+# Author
+
+Sameer Ahmed
+SQL Data Analysis Project
