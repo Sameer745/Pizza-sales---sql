@@ -42,6 +42,13 @@ This project uses several SQL techniques: <br>
 -> A small number of pizza types generate a large share of revenue.  <br> 
 -> These insights can help restaurants improve menu strategy, pricing, and inventory planning.  <br>
 
+# How to Run the Project
+-> Install WorkbenchSQL . <br>
+-> Set up the database schema and tables using the provided  structure. <br>
+-> Insert the sample data into the respective tables. <br>
+-> Execute SQL queries to solve the listed problems. <br>
+-> Review the output of the queries to understand pizza sales trends and business insights. <br>
+
 # Author
 
 Sameer Ahmed
