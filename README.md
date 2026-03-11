@@ -2,14 +2,14 @@
 This project analyzes a pizza sales dataset using SQL to extract meaningful business insights. The analysis focuses on understanding customer ordering behavior, revenue generation, popular pizza types, and sales trends.  By using SQL queries, the project answers several business questions that help a pizza restaurant make data-driven decisions.
 
 # 13 Practice Questions
-The SQL queries in this project answer the following questions:  
-Basic:  
-Retrieve the total number of orders placed.  
-Calculate the total revenue generated from pizza sales.  
-Identify the highest-priced pizza.  
-Identify the most common pizza size ordered.
-List the top 5 most ordered pizza types along with their quantities.
-
+The SQL queries in this project answer the following questions:  <br>
+Basic:  <br>
+Retrieve the total number of orders placed.  <br>
+Calculate the total revenue generated from pizza sales.  <br>
+Identify the highest-priced pizza.  <br>
+Identify the most common pizza size ordered.  <br>
+List the top 5 most ordered pizza types along with their quantities.  <br>
+<br>
 
 Intermediate:
 Join the necessary tables to find the total quantity of each pizza category ordered.
