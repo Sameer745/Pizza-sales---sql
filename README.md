@@ -26,9 +26,9 @@ Determine the top 3 most ordered pizza types based on revenue for each pizza cat
 
 # SQL Concepts Used
 This project uses several SQL techniques: <br>
-INNER JOIN <br>
-GROUP BY <br>
-ORDER BY <br>
-Aggregate Functions (SUM, COUNT, AVG) <br>
-Subqueries <br>
-Window Functions (RANK, OVER) <br>
+-> INNER JOIN <br>
+-> GROUP BY <br>
+-> ORDER BY <br>
+-> Aggregate Functions (SUM, COUNT, AVG) <br>
+-> Subqueries <br>
+-> Window Functions (RANK, OVER) <br>
