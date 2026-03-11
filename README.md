@@ -23,3 +23,12 @@ Advanced: <br>
 Calculate the percentage contribution of each pizza type to total revenue.  <br>
 Analyze the cumulative revenue generated over time.  <br>
 Determine the top 3 most ordered pizza types based on revenue for each pizza category. <br>
+
+# SQL Concepts Used
+This project uses several SQL techniques: <br>
+INNER JOIN <br>
+GROUP BY <br>
+ORDER BY <br>
+Aggregate Functions (SUM, COUNT, AVG) <br>
+Subqueries <br>
+Window Functions (RANK, OVER) <br>
