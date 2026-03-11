@@ -35,6 +35,13 @@ This project uses several SQL techniques: <br>
 -> Subqueries <br>
 -> Window Functions (RANK, OVER) <br>
 
+# Key Insights
+-> Some pizza categories contribute significantly more revenue. <br>
+-> Certain pizza sizes are ordered more frequently. <br>
+-> Sales show peak hours during specific times of the day.  <br>
+-> A small number of pizza types generate a large share of revenue.  <br> 
+-> These insights can help restaurants improve menu strategy, pricing, and inventory planning.  <br>
+
 # Author
 
 Sameer Ahmed
